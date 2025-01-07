@@ -93,6 +93,5 @@ Create your own medical oath! Your oath should include guidelines and tenets for
 
 Then, in a reflection of about 100 words, explain your process behind creating your oath and why you included each of your tenets.
 
-<!-- - What do these oaths have in common? Do these align with "universal" ethical values in medical practice?
-- How do these oaths differ? Consider the historical, cultural, and religious contexts surrounding each oath. What might these differences tell you about the identity of a doctor in each culture?
-- Do the tenets of each oath align with how you think doctors should act professionally? Why or why not? -->
+{: .important}
+> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
