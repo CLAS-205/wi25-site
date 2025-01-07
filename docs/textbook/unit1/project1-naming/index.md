@@ -147,3 +147,6 @@ For each of the following names, provide its English counterpart (i.e., its non-
 3. Akodon toba
 4. Esox masquinongy
 5. Sequoiadendron giganteum
+
+{: .important}
+> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
