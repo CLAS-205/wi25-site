@@ -25,7 +25,7 @@ In this project, you will apply your understanding of bioscientific vocabulary b
 
 ## Problem 1: Places, Please
 
-Some organisms' species are derived from the places that they inhabit or were discovered in. Based on the names of these organisms, tell where they can be found.
+Some organisms' species are derived from the places that they inhabit or were discovered in. Based on the names of these organisms, tell where they can be found. (Hint: They will look a lot like one part of the organism's name!)
 
 1. Ursus americanus
 2. Calopteryx japonica
@@ -38,7 +38,7 @@ Some organisms' species are derived from the places that they inhabit or were di
 
 ## Problem 2: Order in the Court
 
-Look up the English name for each of the given orders. Interpret the scientific names and explain why these make sense (or don't!) for the types of organisms they describe.
+Look up and provide the English name for each of the given orders. Give 1-2 examples of organisms in each order. Then, interpret the scientific names and explain why these make sense (or don't!) for the types of organisms they describe.
 
 1. Lepidoptera
 2. Coleoptera
@@ -57,51 +57,38 @@ You are given some lists of organisms that share a genus but differ in species. 
 * Geographic names
 * Discoverer names
 
+(Hint: Look for words or syllables in common between the scientific and English names!)
+
 ### Problem 3.1: Panthera
 
-1. Panthera leo
-2. Panthera tigris
-3. Panthera pardus
-4. Panthera onca
-
-<ol type="A">
- <li>Jaguar</li>
- <li>Tiger</li>
- <li>Lion</li>
- <li>Leopard</li>
-</ol>
+| Scientific Name       | English Name          |
+|:---                   | :---                  |
+| 1. Panthera leo       | A. Jaguar             |
+| 2. Panthera tigris    | B. Tiger              |
+| 3. Panthera pardus    | C. Lion               |
+| 4. Panthera onca      | D. Leopard            |
 
 ### Problem 3.2: Morpho
 
-1. Morpho sulkowskyi
-2. Morpho richardus
-3. Morpho godarti
-4. Morpho eugenia
-
-<ol type="A">
- <li>Richard's morpho</li>
- <li>Empress Eugenie morpho</li>
- <li>Sulkowsky's morpho</li>
- <li>Godart's morpho</li>
-</ol>
+| Scientific Name       | English Name              |
+|:---                   | :---                      |
+| 1. Morpho sulkowskyi  | A. Richard's morpho       |
+| 2. Morpho richardus   | B. Empress Eugenie morpho |
+| 3. Morpho godarti     | C. Sulkowsky's morpho     |
+| 4. Morpho eugenia     | D. Godart's morpho        |
 
 ### Problem 3.3: Lilium
 
-1. Lilium nepalense
-2. Lilium michiganense
-3. Lilium washingtonianum
-4. Lilium columbianum
-
-<ol type="A">
- <li>Michigan lily</li>
- <li>Columbia tiger lily</li>
- <li>Lily of Nepal</li>
- <li>Mt. Hood lily</li>
-</ol>
+| Scientific Name           | English Name              |
+|:---                       | :---                      |
+| 1. Lilium nepalense       | A. Michigan lily          |
+| 2. Lilium michiganense    | B. Columbia tiger lily    |
+| 3. Lilium washingtonianum | C. Lily of Nepal          |
+| 4. Lilium columbianum     | D. Mt. Hood lily          |
 
 ## Problem 4: Mythological Names
 
-Each of the following organisms has a scientific name related to a figure from Greek mythology. For each organism, look up its English name. Then tell what figure from Greek mythology it's named after, and explain the connection between the figure and the organism in 1-2 sentences. (It's OK to look up more information on the figures if you're not familiar with them!)
+Each of the following organisms has a scientific name related to a figure from Greek mythology. For each organism, look up and provide its English name. Then tell what figure from Greek mythology it's named after, and explain the connection between the figure and the organism in 1-2 sentences. You might find it helpful to include a brief description of both the figure and the organism. (It's OK to look up more information on the figures and organisms if you're not familiar with them!)
 
 1. *Nestor notabilis*
 2. *Dynastes hercules*
@@ -111,7 +98,7 @@ Each of the following organisms has a scientific name related to a figure from G
 
 ## Problem 5: Dinosaurs
 
-Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the definitions of their names. 
+Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the definitions of their names.
 
 1. Velociraptor - speedy thief
 2. Stegosaurus - roofed lizard
@@ -123,7 +110,7 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
 8. Apatosaurus - deceptive lizard
 9. Ceratosaurus - horned lizard
 
-Based on these, write down what each of the following bases mean.
+Based on these definitions, write down what each of the following bases mean.
 
 <ol type="A">
  <li>apato-</li>
@@ -153,10 +140,10 @@ For each of the organisms and their scientific names, provide a breakdown of all
 
 While Greek and Latin roots form the backbone of much scientific terminology, non-Greek and Latin languages can also contribute to scientific names. For example, some plants and animals keep indigenous names to honor cultural heritage or reflect local knowledge about the species. Using non-Greek and Latin languages can provide specific, culturally relevant descriptors that might not be captured by traditional naming conventions.
 
-For each of the following names, look up the language and culture that is used in the scientific name. Then tell the significance (in at least 1-2 sentences) that the organism has to that culture.
+For each of the following names, provide its English counterpart (i.e., its non-scientific, common name). Then, look up and provide the non-Latin or Greek language that is used in the scientific name. Then tell the significance (in at least 1-2 sentences) that the organism has to its culture of origin.
 
 1. Opuntia tehuacana
-2. Tuber lijiangense
+2. Pouteria sapota
 3. Akodon toba
 4. Esox masquinongy
 5. Sequoiadendron giganteum
