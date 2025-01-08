@@ -142,6 +142,3 @@ Examples include (but are not limited to):
 - Antimony (Sb)
 - Copper (Cu)
 - Lead (Pb)
-
-{: .important}
-> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.

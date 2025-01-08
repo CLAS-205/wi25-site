@@ -93,6 +93,3 @@ In an essay of about 300-400 words, compare and contrast the way these writers d
 ## Challenge Problem: The Root of the Issue
 
 For any of the texts in Problem 6, read either the Latin or the Greek and identify 5 words that contain roots that you've learned so far. Give the word, the root, and the context (i.e., the sentence or the line you found the word in). What do you think this word means?
-
-{: .important}
-> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
