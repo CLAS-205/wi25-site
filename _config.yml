@@ -10,7 +10,7 @@ color_scheme: nil
 
 permalink: pretty
 
-favicon: assets/images/favicon.ico
+favicon_ico: assets/images/favicon.ico
 
 defaults:
   - scope:
