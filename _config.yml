@@ -10,6 +10,8 @@ color_scheme: nil
 
 permalink: pretty
 
+favicon_ico: "/assets/images/favicon.ico"
+
 defaults:
   - scope:
       path: "docs" # an empty string here means all files in the project
