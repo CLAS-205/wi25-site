@@ -221,3 +221,75 @@ All vocabulary from each unit and lesson can be found here.
 | parv(o)   | Latin                     | small             | parvovirus    |
 | magn(i/o) | Latin                     | large             | magnitude     |
 | alt(o)    | Latin                     | tall, deep        | altitude      |
+
+## Unit 2
+
+### Lesson 6
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| thea          | Greek                 | to view, to watch         | theatrics         |
+| gam(e)        | Greek                 | to marry, to join         | monogamy          |
+| lex(i)        | Greek                 | to read                   | lexicon           |
+| ly(s)         | Greek                 | to dissolve, to loosen    | dialysis          |
+| zym(e)        | Greek                 | fermented, leaven         | enzyme            |
+| petr/peter    | Greek                 | rock                      | saltpeter         |
+| rhe(u)/rrh(ea)    | Greek                 | to flow                   | rheumatism    |
+| rhythm        | Greek                 | regularity, flow          | rhythmic          |
+| mol(e)        | Latin                 | weight, heaviness         | molar             |
+| dorm/dormit   | Latin                 | to sleep                  | dormant           |
+| fort/fors     | Latin                 | strong                    | fortissimo        |
+| simil/sembl   | Latin                 | alike, similar            | similarity        |
+| sid/sed       | Latin                 | to sit                    | sediment          |
+| mo(v/t)       | Latin                 | to move                   | movement          |
+| capt/cept     | Latin                 | to catch, to get          | capture           |
+| curr          | Latin                 | to run                    | current           |
+| centr         | Latin                 | middle, center            | central           |
+| cur           | Latin                 | to care for, to oversee   | curator           |
+| serv          | Latin                 | to serve, to save         | servant           |
+| ag/act(i)     | Latin                 | to do, to drive, to force | agent             |
+| duc(t)        | Latin                 | to lead                   | ductile           |
+
+### Lesson 7
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| hemi          | Greek                 | half                      | hemisphere        |
+| mono          | Greek                 | one                       | monotone          |
+| di(ch)        | Greek                 | two                       | dichotomy         |
+| tri           | Greek                 | three                     | tricolor          |
+| tetr(a)       | Greek                 | four                      | tetrapod          |
+| pent(a)       | Greek                 | five                      | pentathlon        |
+| hex(a)        | Greek                 | six                       | hexahedron        |
+| hept(a)       | Greek                 | seven                     | heptagon          |
+| oct(a)        | Greek                 | eight                     | octane            |
+| enne(a)       | Greek                 | nine                      | enneagram         |
+| dec(a)        | Greek                 | ten                       | decade            |
+| hect(a)       | Greek                 | one hundred               | hectacre          |
+| kil(o)        | Greek                 | one thousand              | kilobyte          |
+| prot(o)       | Greek                 | first                     | proton            |
+| deut(er)      | Greek                 | second                    | deuteragonist     |
+| semi          | Latin                 | half                      | semicolon         |
+| uni           | Latin                 | one                       | universe          |
+| du(o)         | Latin                 | two                       | duality           |
+| bi            | Latin                 | two                       | binary            |
+| tri           | Latin                 | three                     | tricolor          |
+| quad/quatr    | Latin                 | four                      | quadratic         |
+| quinqu        | Latin                 | five                      | quinqueped        |
+| sex           | Latin                 | six                       | sexagenarian      |
+| sept          | Latin                 | seven                     | September         |
+| oct           | Latin                 | eight                     | October           |
+| nov(em)       | Latin                 | nine                      | November          |
+| dec(i)        | Latin                 | ten                       | December          |
+| cent(i)       | Latin                 | one hundred               | century           |
+| mill(i)       | Latin                 | one thousand              | millipede         |
+| prim(a)       | Latin                 | first                     | primal            |
+| second/secund | Latin                 | second                    | secondary         |
+| terti/tern    | Latin                 | third, third time, thrice | tertiary, ternary |
+| quart/quatern | Latin                 | fourth, fourth time, four times   | quaternary, quarter   |
+| quint/quin    | Latin                 | fifth, fifth time, five times     | quintuplet        |
+| sext          | Latin                 | sixth                     | sextet            |
+| septim        | Latin                 | seventh                   | septimal          |
+| octav         | Latin                 | eighth                    | octave            |
+| non           | Latin                 | ninth                     | nonagenarian      |
+| decim         | Latin                 | tenth                     | decimal           |
