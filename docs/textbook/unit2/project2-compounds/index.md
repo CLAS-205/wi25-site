@@ -4,7 +4,7 @@ nav_order: 6
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
+# nav_exclude: true
 ---
 
 # Project 2: Compounding Terms 🔬
@@ -41,13 +41,15 @@ The following elements from the periodic table use Latin- or Greek-based names w
 
 ## Problem 2: Gods Against Humanity
 
-These elements all include references to Greek and Roman mythological figures in their names. Give the figure, what the figure represents, and why the element was named after that figure. Then, tell whether you think this name is appropriate. (Think back to the discussions about Linnaeus' tendency to name organisms after his friends.)
+These elements all include references to Greek and Roman mythological figures in their names. Look up and provide the name of the figure, what the figure represents in mythology, and why the element was named after that figure. Then, tell whether you think this name is appropriate.
+
+(Hint: You may find it helpful to look into the history of how each element was discovered, to determine why each was named after the mythological figure associated with it.)
 
 1. Titanium
 2. Promethium
 3. Plutonium
 4. Tantalum
-5. Palladium
+5. Selenium
 
 ## Problem 3: It's a Numbers Game
 
@@ -64,9 +66,9 @@ Use number prefixes to match chemical names to their formulae. (When there's no 
 
 ## Problem 4: Another Happy Ending
 
-Using context clues to figure out the patterns in each of the following groups of chemical compounds with the same ending. In other words, what do each of these compounds have in common? 
+Using context clues to figure out the patterns in each of the following groups of chemical compounds with the same ending. In other words, what do each of these compounds have in common?
 
-(Hint: look for elements or numbers in common!)
+(Hint: Look for elements or numbers in common! Be sure to explain the commonality so that a general audience can understand.)
 
 #### -ate
 
@@ -142,3 +144,6 @@ Examples include (but are not limited to):
 - Antimony (Sb)
 - Copper (Cu)
 - Lead (Pb)
+
+{: .important}
+> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
