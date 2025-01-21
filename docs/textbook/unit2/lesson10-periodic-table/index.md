@@ -28,7 +28,7 @@ In alchemical traditions, the classical elements consisted of four primary subst
 
 Alchemists believed that by manipulating these elements through various processes—such as heating, cooling, and combining—they could create new substances or purify existing ones. The goal of these transformations was not just practical; it also had a spiritual dimension. Many alchemists viewed their work as a form of self-improvement, seeking to refine not only materials but also their own character and understanding of the universe.
 
-The concept of a fifth element, known as "quintessence" or "aether," was also integral to alchemical thought. Quintessence was believed to represent a perfect, divine substance that permeated the universe, connecting the celestial and terrestrial realms. Alchemists aimed to understand how these elements interacted and how they could be manipulated to achieve desired transformations. Although this understanding lacked empirical validation, it laid the groundwork for later scientific inquiry into the nature of matter and the elements.
+The concept of a fifth element, known as "quintessence" or "aether," was also integral to alchemical thought (does the "quint" look familiar?). Quintessence was believed to represent a perfect, divine substance that permeated the universe, connecting the celestial and terrestrial realms. Alchemists aimed to understand how these elements interacted and how they could be manipulated to achieve desired transformations. Although this understanding lacked empirical validation, it laid the groundwork for later scientific inquiry into the nature of matter and the elements.
 
 Moreover, alchemical texts often included intricate diagrams and symbols to represent these elements and their interactions. These illustrations served both as a means of communication among practitioners and as a way to encode complex ideas about the nature of reality. The alchemical approach to elements emphasized not only their physical properties but also their symbolic meanings, which reflected the interconnectedness of matter, spirit, and the cosmos.
 
@@ -43,26 +43,29 @@ Alchemical texts frequently included elaborate recipes and processes for metal t
 
 The symbolic language of metals in alchemy also contributed to a broader understanding of the natural world. For example, the process of refining metals was often paralleled with personal transformation, illustrating the belief that spiritual and material growth were interconnected. Metals were also associated with heavenly bodies, with gold being assigned the Sun, and lead assigned Saturn (at then the farthest known planet from the Sun). Alchemy set a precedent for symbolic language, but it also connected science and philosophy by making it seem as though alchemists were embarking on a cosmic journey of purification and enlightenment.
 
-## The First Table
+## The First Tables
 
 The quest to classify elements gained momentum in the late 18th and early 19th centuries as chemists sought to systematize the growing body of knowledge about known substances. In 1803, the English scientist **John Dalton** proposed an early table of atomic weights, marking the beginning of a more organized approach to understanding chemical elements. His atomic theory posited that each element is composed of unique atoms with specific weights, allowing for comparisons between different substances. This early framework provided a foundational structure for the burgeoning field of chemistry.
+
+![Dalton's first table of elements, which features two columns of known elements by their weights, with their alchemical symbols for reference](../../../../assets/images/dalton-periodic-table.jpg)
+*Dalton's first table. Image credit: Science and Industry Museum*
 
 {: .note}
 > Dalton was also color-blind and is credited with the first systematic studies and research into color vision deficiencies. He initially believed that his color-blindness was due to discoloration in his eyes, which was later proven to be false.
 
-Dalton's work was pivotal, yet it lacked comprehensiveness, as many elements were not included in his atomic weight table. The understanding of atomic weights was still rudimentary, and as new elements were discovered, the need for a more systematic classification became apparent. Chemists began refining their definitions and methods for determining atomic weights, leading to significant developments in the field.
+Dalton's work was pivotal, yet it lacked comprehensiveness, as many elements were not included in his atomic weight table. The understanding of atomic weights was still rudimentary, and as new elements were discovered, the need for a more systematic classification became apparent. It was beecoming tedious to constantly reorganize the table each time a new element had to be added. Chemists began refining their definitions and methods for determining atomic weights, leading to significant developments in the field.
 
 The limitations of Dalton's table prompted further research and experimentation. Other scientists, such as **Jöns Jacob Berzelius**, contributed to the field by developing more accurate methods for measuring atomic weights and systematically categorizing elements. In 1813, Berzelius introduced a new system of chemical symbols, which enhanced communication among chemists and facilitated the recording of chemical reactions. Similar to how Linnaeus developed the genus-species shorthand for biological organisms, Berzelius reduced each known element to one or two letters: "O" for oxygen, "H" for hydrogen, and so on.
 
-As the number of known elements increased, so did the complexity of understanding their relationships. The introduction of the concept of *valence* added another layer of complexity to the classification of elements. This growing understanding laid the groundwork for a more comprehensive system of organization, ultimately leading to the creation of the periodic table.
+![Berzelius's table, which has the names of elements on the far left, followed by their symbols and weights](../../../../assets/images/berzelius-table.jpg)
 
-The early efforts to organize elements culminated in the recognition that a systematic approach was essential for advancing the study of chemistry. The groundwork laid by these early chemists paved the way for later developments, making it clear that the understanding of elements would require not just observation but also a coherent framework for classification.
+As the number of known elements increased, so did the complexity of understanding their relationships. The introduction of the concept of *valence* added another layer of complexity to the classification of elements. This growing understanding laid the groundwork for a more comprehensive system of organization, ultimately leading to the creation of the periodic table.
 
 ## Adding New Elements
 
 Throughout the 19th century, the periodic discovery of new elements necessitated an expanded understanding of classification in chemistry. The discovery of oxygen by **Joseph Priestley** in the late 18th century, followed by the identification of other gases and elements, highlighted the importance of systematically organizing these substances. As chemists isolated and identified new elements, they found that many exhibited unique properties that could not be easily categorized.
 
-The advent of analytical techniques, such as spectroscopy and electrolysis, allowed scientists to explore the characteristics of elements in greater detail. New discoveries, such as chlorine by **Carl Wilhelm Scheele** and iodine by **Bernard Courtois**, further expanded the growing list of known substances. Each new element prompted scientists to reconsider existing classifications and relationships among elements, driving home the need for a cohesive system to organize them.
+The advent of other analytical techniques, such as spectroscopy and electrolysis (can you figure out what these processes mean?), allowed scientists to explore the characteristics of elements in greater detail. New discoveries, such as chlorine by **Carl Wilhelm Scheele** and iodine by **Bernard Courtois**, further expanded the growing list of known substances. Each new element prompted scientists to reconsider existing classifications and relationships among elements, driving home the need for a cohesive system to organize them.
 
 {: .note}
 > Scheele theorized about the existence of several elements, such as barium, manganese, and tungsten, but since he wasn't able to isolate the elements, other chemists got the credit for their discoveries instead. English chemist Humphry Davy isolated barium in 1808; Swedish chemist Johan Gottliebe Gahn isolated manganese in the same year; and Spanish chemists and brothers Fausto and Juan José Elhuyar got to tungsten in 1783.
@@ -71,17 +74,37 @@ As new elements were discovered, chemists began to refine their definitions and 
 
 ## Mendeleev's Table
 
-In 1869, the Russian chemist **Dmitri Mendeleev** published his periodic table, a groundbreaking organizational tool that arranged elements according to their atomic mass and chemical properties. Mendeleev's table was revolutionary for its time, revealing periodic trends that allowed him to predict the existence and properties of undiscovered elements. His ability to foresee gaps in the table, such as the prediction of germanium, gallium, and scandium, showcased the predictive power of his approach.
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/mendeleev.jpg" alt="A picture of Dmitri Mendeleev" style="max-width: 50%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>Dmitri Mendeleev. Image credit: The Royal Society of Chemistry</i></figcaption>
+    </div>
+    <p style="margin: 0;">In 1869, the Russian chemist <b>Dmitri Mendeleev</b> published his periodic table, a groundbreaking organizational tool that arranged elements according to their atomic mass and chemical properties. Mendeleev's table was revolutionary for its time, revealing periodic trends that allowed him to predict the existence and properties of undiscovered elements. His ability to foresee gaps in the table, such as the prediction of germanium, gallium, and scandium, showcased the predictive power of his approach.</p>
+    <p> </p>
+</div>
 
 Mendeleev's periodic table organized elements based on their atomic mass, but he also considered their chemical properties. This dual focus allowed Mendeleev to create a structure that highlighted not only the relationships between known elements but also the potential for new discoveries. For instance, he noted that certain elements exhibited similar characteristics, such as reactivity and valence, leading to the classification of groups or families within the table.
 
-One of the most striking aspects of Mendeleev's work was his willingness to leave gaps for undiscovered elements. This bold decision demonstrated his confidence in the periodicity of elements and encouraged further exploration and experimentation. Mendeleev's foresight in predicting the existence of elements such as gallium, which was discovered shortly after the publication of his table, solidified his reputation as a visionary in the field of chemistry.
+![Mendeleev's first table](../../../../assets/images/Mendeleev's_1869_periodic_table.png)
+*Mendeleev's first table, which used Berzelius's symbols and Dalton's ordering of atomic weights. Note that there are question marks for some of the elements, and that the columns are not evenly distributed!*
+
+One of the most striking aspects of Mendeleev's work was his willingness to leave gaps for undiscovered elements. This decision demonstrated his confidence in the periodicity of elements and encouraged further exploration and experimentation. Mendeleev's foresight in predicting the existence of elements such as gallium, which was discovered shortly after the publication of his table, solidified his reputation as a visionary in the field of chemistry.
 
 Mendeleev's periodic table marked a turning point in chemistry, establishing a foundation for future research and discovery. His emphasis on the periodicity of elements—the idea that properties of elements repeat at regular intervals—helped unify various branches of chemistry and encouraged further exploration into the relationships between elements. This innovative framework allowed chemists to better understand and predict chemical reactions, paving the way for advancements in the field.
 
 ## Marie Curie and Radioactivity
 
-The early 20th century marked a pivotal era in the understanding of elements, particularly through the groundbreaking research of **Marie Curie**. Born Maria Skłodowska in Warsaw, Poland, in 1867, Curie moved to Paris to study at the Sorbonne, where she became the first woman to earn a degree in physics and later in mathematics. Her passion for scientific inquiry led her to investigate the emerging field of *radioactivity*, a term that she coined, which described the phenomenon of certain elements emitting radiation spontaneously.
+
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/marie-curie.jpg" alt="A picture of Marie Curie" style="max-width: 50%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>Marie Curie. Image credit: American Chemical Society.</i></figcaption>
+    </div>
+    <p style="margin: 0;">
+The early 20th century marked a pivotal era in the understanding of elements, particularly through the groundbreaking research of <b>Marie Curie</b>. Born Maria Skłodowska in Warsaw, Poland, in 1867, Curie moved to Paris to study at the Sorbonne, where she became the first woman to earn a degree in physics and later in mathematics. Her passion for scientific inquiry led her to investigate the emerging field of <i>radioactivity</i>, a term that she coined, which described the phenomenon of certain elements emitting radiation spontaneously.</p>
+    <p> </p>
+</div>
+
 
 Curie's research began in earnest in the late 1890s when she and her husband, Pierre Curie, embarked on a study of uranium rays. They discovered that uranium was not the only element capable of emitting radiation. This realization prompted them to explore other minerals that contained uranium, leading to the identification of two previously unknown elements: polonium and radium. The Curies meticulously isolated these elements from uranium ore, a labor-intensive process that required grinding up ore samples and dissolving them in acids for several hours.
 

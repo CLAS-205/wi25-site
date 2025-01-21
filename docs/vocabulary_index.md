@@ -226,6 +226,9 @@ All vocabulary from each unit and lesson can be found here.
 
 ### Lesson 6
 
+{: .important}
+> This lesson also contains many definitions for endings, which are best referenced on the individual lesson page.
+
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
 | thea          | Greek                 | to view, to watch         | theatrics         |
@@ -293,3 +296,83 @@ All vocabulary from each unit and lesson can be found here.
 | octav         | Latin                 | eighth                    | octave            |
 | non           | Latin                 | ninth                     | nonagenarian      |
 | decim         | Latin                 | tenth                     | decimal           |
+
+### Lesson 8
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| lith          | Greek                 | stone                     | monolith          |
+| heli(o)       | Greek                 | sun                       | heliotrope        |
+| hal           | Greek                 | salt                      | halite            |
+| (di)dym       | Greek                 | twin                      | didymous          |
+| iso           | Greek                 | equal                     | isosceles         |
+| ne(o)         | Greek                 | new                       | neonatal          |
+| oxy           | Greek                 | sharp, sour               | oxygen            |
+| calyp(s/t)    | Greek                 | hidden                    | Calypso           |
+| gen           | Greek                 | to create, to produce     | generate          |
+| phor/pher     | Greek                 | to bear, to carry         | metaphor          |
+| ion           | Greek                 | to go                     | ionic             |
+| apo           | Greek                 | away                      | apotheosis        |
+| es/eis        | Greek                 | to, towards, into         | esoteric          |
+| epi           | Greek                 | on, upon, to              | epidemic          |
+| para          | Greek                 | next to, beside, disordered    | parasocial   |
+| peri          | Greek                 | around                    | perimeter         |
+| pro(s)        | Greek                 | in front of, in addition to   | prologue      |
+| calc          | Latin                 | limestone                 | calcium           |
+| val           | Latin                 | strength, capacity, ability | valor           |
+| cut/cuss      | Latin                 | to hit                    | percussion        |
+| flu           | Latin                 | to flow                   | fluid             |
+| mon(it)       | Latin                 | to warn, to advise, to suggest |  admonish    |
+| extr(a/o)     | Latin                 | outside, beyond           | extravagant       |
+| infr(a)       | Latin                 | below                     | infrastructure    |
+| ultr(a)       | Latin                 | above, exceeding          | ultrasonic        |
+| per           | Latin                 | each, through, completely | permeate          |
+| pr(a)e        | Latin                 | before, ahead of          | preside           |
+
+### Lesson 9
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| aer           | Greek                 | air, gas                  | aerate            |
+| pyr(o)        | Greek                 | fire                      | pyromania         |
+| techn(o)      | Greek                 | skill                     | technology        |
+| onym          | Greek                 | name                      | homonym           |
+| soph          | Greek                 | wisdom                    | sophisticated     |
+| arch(ae)      | Greek                 | old, ancient, beginning   | archaeology       |
+| pale(o)       | Greek                 | old                       | paleography       |
+| ont           | Greek                 | being                     | ontology          |
+| (h)od         | Greek                 | road, way                 | diode             |
+| quant         | Latin                 | number, count, amount     | quantity          |
+| still(a)      | Latin                 | drop (as of liquids)      | distill           |
+| anim(a)       | Latin                 | soul, spirit              | animate           |
+| nomin/nomen   | Latin                 | name                      | nominate          |
+| lust(e)r      | Latin                 | light (n.)                | luster            |
+| hum(o/i)      | Latin                 | moisture                  | humid             |
+| nov           | Latin                 | new                       | renovate          |
+| pract         | Latin                 | to do, to act             | practice          |
+| sequ(e)       | Latin                 | to follow                 | sequence          |
+| mit(t)/mis(s) | Latin                 | to send                   | submit            |
+| tract/trah    | Latin                 | to drag                   | tractor           |
+| vect/veh      | Latin                 | to carry                  | convection        |
+| ced(e)/cess   | Latin                 | to withdraw, to yield     | concede           |
+
+### Lesson 10
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| irid/iris     | Greek                 | rainbow, colorful, iris   | iridescent        |
+| mer           | Greek                 | part                      | polymer           |
+| mes           | Greek                 | middle                    | Mesoamerica       |
+| krypt/crypt   | Greek                 | hidden                    | krypton           |
+| bar(i/y)      | Greek                 | heavy                     | barometer         |
+| iod(e)        | Greek                 | violet                    | iodine            |
+| brom          | Greek                 | stench, stink             | bromide           |
+| cycl(o/e)     | Greek                 | circle                    | bicycle           |
+| mall(e)       | Latin                 | hammer                    | mallet            |
+| tellu(r/s)    | Latin                 | earth                     | tellurian         |
+| nucle(us)     | Latin                 | nut, nutshell             | nucleus           |
+| radi(o)       | Latin                 | ray (as of the sun)       | radiant           |
+| med/mid(i)    | Latin                 | middle                    | median            |
+| fug(a)        | Latin                 | to flee, to go away from  | fugue             |
+| pet(it)       | Latin                 | to seek, to go towards    | petition          |
+| gress/grade   | Latin                 | to go, to advance         | progress          |
