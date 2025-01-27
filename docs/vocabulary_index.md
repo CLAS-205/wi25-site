@@ -376,3 +376,26 @@ All vocabulary from each unit and lesson can be found here.
 | fug(a)        | Latin                 | to flee, to go away from  | fugue             |
 | pet(it)       | Latin                 | to seek, to go towards    | petition          |
 | gress/grade   | Latin                 | to go, to advance         | progress          |
+
+## Unit 3
+
+### Lesson 11
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| icos(a)       | Greek                 | 20                        | icosahedron       |
+| (a)gon        | Greek                 | angle                     | pentagon          |
+| arithm(o)     | Greek                 | number                    | arithmetic        |
+| scel(e/o)     | Greek                 | leg                       | isosceles         |
+| stoich(io)    | Greek                 | element, part             | stoichiometry     |
+| iso           | Greek                 | equal                     | isometric         |
+| gram          | Greek                 | written                   | telegram          |
+| hedron        | Greek                 | geometric solid with X faces | hexahedron     |
+| orth(o)       | Greek                 | straight, regular         | orthodontics      |
+| ster(eo)      | Greek                 | solid, stiff              | stereotype        |
+| pto/pit(e)    | Greek                 | to fall                   | peripiteia        |
+| ball/bol(e/a) | Greek                 | to throw                  | hyperbole         |
+| ten(u/e)      | Greek                 | to stretch                | tenuous           |
+| math(e)       | Greek                 | to learn                  | mathematics       |
+| lips(e)/laps(e) | Greek               | to fall                   | relapse           |
+| (h)eur(o)     | Greek                 | to find, to discover      | eureka            |

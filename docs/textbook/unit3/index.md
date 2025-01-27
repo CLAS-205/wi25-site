@@ -4,7 +4,7 @@ nav_order: 3
 layout: default
 parent: Textbook
 has_toc: false
-nav_exclude: true
+# nav_exclude: true
 ---
 
 ## Unit 3
@@ -25,7 +25,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Eratosthenes
     - Hypatia
 
-[Lesson 12: Mathematics in Ancient Rome](./lesson12-roman-math/)
+<!-- [Lesson 12: Mathematics in Ancient Rome](./lesson12-roman-math/)
 -
 
 - Roman arithmetic
@@ -79,4 +79,4 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
 
 [Project 3: Exploring the Universe](./project3-universe/)
 
-- Applying knowledge of Latin and Greek roots to names of astronomical objects.
+- Applying knowledge of Latin and Greek roots to names of astronomical objects. -->

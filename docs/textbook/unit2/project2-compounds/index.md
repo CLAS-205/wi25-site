@@ -26,10 +26,15 @@ A copy of the periodic table is provided here, for your reference.
 
 ![The periodic table of elements](../../../../assets/images/periodic_table.png)
 
+{: .note}
+> To clarify when only the textbook is necessary to solve a problem and when outside resources may be necessary, look for the following symbols:  
+> - 📚 for questions where only the textbook is needed  
+> - 🔎 for questions where you will need outside resources.
+
 1. TOC
 {:toc}
 
-## Problem 1: Elementary, My Dear Watson
+## 📚 Problem 1: Elementary, My Dear Watson
 
 The following elements from the periodic table use Latin- or Greek-based names with diminutive endings. Interpret the meanings of each of the elements' names. Then, look up what the element is used for/in and tell whether you think this name is appropriate or not. Recall that a diminutive just means "little"!
 
@@ -39,7 +44,7 @@ The following elements from the periodic table use Latin- or Greek-based names w
 4. Tellurium
 5. Radium
 
-## Problem 2: Gods Against Humanity
+## 🔎 Problem 2: Gods Against Humanity
 
 These elements all include references to Greek and Roman mythological figures in their names. Look up and provide the name of the figure, what the figure represents in mythology, and why the element was named after that figure. Then, tell whether you think this name is appropriate.
 
@@ -51,7 +56,7 @@ These elements all include references to Greek and Roman mythological figures in
 4. Tantalum
 5. Selenium
 
-## Problem 3: It's a Numbers Game
+## 📚 Problem 3: It's a Numbers Game
 
 Use number prefixes to match chemical names to their formulae. (When there's no number prefix, you may assume that there is only one of that element)
 
@@ -64,7 +69,7 @@ Use number prefixes to match chemical names to their formulae. (When there's no 
 | 5. Nitrogen Trifluoride   | E. H<sub>2</sub>O     |
 | 6. Carbon Tetrachloride   | F. CCl<sub>4</sub>    |
 
-## Problem 4: Another Happy Ending
+## 📚 Problem 4: Another Happy Ending
 
 Using context clues to figure out the patterns in each of the following groups of chemical compounds with the same ending. In other words, what do each of these compounds have in common?
 
@@ -94,7 +99,7 @@ Using context clues to figure out the patterns in each of the following groups o
 - Butane (C<sub>4</sub>H<sub>10</sub>)
 - Octane (C<sub>8</sub>H<sub>18</sub>)
 
-## Problem 5: A Test of Metal
+## 📚 Problem 5: A Test of Metal
 
 Recall that Roman numerals are used to indicate oxidation levels in transition metals. Further, for metals with multiple possible oxidation levels, the suffix *-ic* is used to indicate **higher** oxidation state, and the suffix *-ous* is used to indicate **lower** oxidation state.
 
@@ -106,7 +111,7 @@ For each of the following pairs of metallic compounds, give the oxidation level 
 4. Lead (II) Nitrate, Lead (IV) Acetate
 5. Vanadium (IV) Oxide, Vanadium (III) Chloride
 
-## Problem 6: Elements Unun-ymous
+## 🔎 Problem 6: Elements Unun-ymous
 
 Each of the following names is no longer used for the last few synthetic elements in the periodic table. For each of the deprecated names, give the current name of the same element. Then tell what/who the element's current name is derived from (i.e., not the deprecated names).
 
@@ -121,7 +126,7 @@ Each of the following names is no longer used for the last few synthetic element
 7. ununseptium
 8. ununoctium
 
-## Challenge Problem: Simple Symbols
+## 🔎 Challenge Problem: Simple Symbols
 
 Some elements' chemical symbols come from their Latin names instead of their English names. Pick one such element and write a short essay about it (200-300 words). Include the following details:
 
@@ -146,4 +151,4 @@ Examples include (but are not limited to):
 - Lead (Pb)
 
 {: .important}
-> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
+> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. You must label each source with the question that it was used for. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
