@@ -34,7 +34,7 @@ A copy of the periodic table is provided here, for your reference.
 1. TOC
 {:toc}
 
-## 📚 Problem 1: Elementary, My Dear Watson
+## 🔎 Problem 1: Elementary, My Dear Watson
 
 The following elements from the periodic table use Latin- or Greek-based names with diminutive endings. Interpret the meanings of each of the elements' names. Then, look up what the element is used for/in and tell whether you think this name is appropriate or not. Recall that a diminutive just means "little"!
 
