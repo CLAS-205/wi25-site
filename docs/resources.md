@@ -42,6 +42,8 @@ A list of additional resources for the class can be found here, organized by top
 - *Molecules: The Elements and the Architecture of Everything*. Theodore Gray, Nick Mann, Black Dog & Leventhal 2014.
 - *Elemental: How the Periodic Table Can Now Explain (Nearly) Everything*. Tim James, Abrams Press, 2019.
 - *The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements*. Sam Kean, Back Bay Books, 2010.
+- *The Secrets of Alchemy*. Lawrence Principe, University of Chicago Press, 2012.
+- *Distilling Knowledge*. Bruce Moran, Harvard University Press, 2005.
 
 ## Math and Astronomy
 
