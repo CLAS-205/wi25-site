@@ -75,8 +75,8 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
 - Greek and Latin as scientific languages
 - Cultural shifts away from Greek and Latin
 - Eurocentrism
-- Ethnosciences
+- Ethnosciences -->
 
 [Project 3: Exploring the Universe](./project3-universe/)
 
-- Applying knowledge of Latin and Greek roots to names of astronomical objects. -->
+- Applying knowledge of Latin and Greek roots to names of astronomical objects.
