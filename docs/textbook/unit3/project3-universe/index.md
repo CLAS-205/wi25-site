@@ -4,7 +4,7 @@ nav_order: 6
 layout: default
 parent: Unit 3
 grandparent: Textbook
-nav_exclude: true
+# nav_exclude: true
 ---
 
 # Project 3: Exploring the Universe 🚀
@@ -22,12 +22,17 @@ nav_exclude: true
 
 In this project, you will explore the names of astronomical objects such as moons, planets, and stars. Many objects in our solar system and universe have names originating from the classical tradition, but many do not! In addition, you will read some excerpts from Greek and Roman writers about their understanding of the universe. As you work through this project, consider the ways in which the classical tradition has informed the way we think about the universe, and how those perspectives might have changed over time.
 
+{: .note}
+> To clarify when only the textbook is necessary to solve a problem and when outside resources may be necessary, look for the following symbols:  
+> - 📚 for questions where only the textbook is needed  
+> - 🔎 for questions where you will need outside resources.
+
 1. TOC
 {:toc}
 
-## Problem 1: Down by the Bayer
+## 📚 Problem 1: Down by the Bayer
 
-For each of the following groups of stars, use their Bayer designations to order the stars from brightest to dimmest. (Note: Bayer's observations were calculated solely on observations with the naked eye and may not necessarily reflect the true luminosities of the stars when calculated through modern methods.)
+For each of the following groups of stars, use their Bayer designations (i.e., their Greek letters) to order the stars from brightest to dimmest. (Note: Bayer's observations were calculated solely on observations with the naked eye and may not necessarily reflect the true luminosities of the stars when calculated through modern methods.)
 
 1. δ Orionis, β Orionis, α Orionis, ε Orionis
 2. ε Canis Majoris, ο Canis Majoris, δ Canis Majoris, η Canis Majoris
@@ -35,18 +40,18 @@ For each of the following groups of stars, use their Bayer designations to order
 4. ψ Draconis, δ Draconis, ζ Draconis, η Draconis
 5. κ Ophiuchi, θ Ophiuchi, ν Ophiuchi, χ Ophiuchi
 
-## Problem 2: Moonwalking
+## 🔎 Problem 2: Moonwalking
 
-For each of the following planets, look up and provide the names of at least four of their moons and tell what the names of the moons have in common. Are the moon names related to the name of their planet? Why or why not?
+For each of the following planets, look up and provide the names of at least four of their moons. Then tell what the names of the moons have in common. Are the moon names related to the name of their planet? Why or why not?
 
 1. Jupiter
 2. Saturn
 3. Uranus
 4. Neptune
 
-## Problem 3: Probing for Answers
+## 🔎 Problem 3: Probing for Answers
 
-Look up and give the destination for each solar system probe series, and then tell how its name is related to its destination.
+Look up and give the destination for each solar system probe series. Then tell how its name is related to its destination.
 
 1. Venera
 2. Juno
@@ -54,7 +59,7 @@ Look up and give the destination for each solar system probe series, and then te
 4. Phobos
 5. Luna
 
-## Problem 4: The Best and Brightest
+## 🔎 Problem 4: The Best and Brightest
 
 For each of the following constellations, give the proper name of the constellation's brightest star (i.e., not its Bayer designation). Then look up and give the etymology of that star's name. Include the language of origin, the meaning of the star's name, and how it relates (or doesn't relate!) to the constellation itself.
 
@@ -62,20 +67,18 @@ For each of the following constellations, give the proper name of the constellat
 2. Cygnus
 3. Taurus
 4. Lyra
-5. Serpens (this star has two names&mdash; you can pick either or both to analyze)
-6. Boötes
+5. Capricorn
+6. Ursa Major
 7. Aquila
-8. Carina
+8. Eridanus
 
-## Problem 5: Astrologic
+## 🔎 Problem 5: Astrologic
 
-In an essay of about 200-300 words, compare and contrast the Babylonian, Chinese, Hindu, and Hellenistic zodiacs. What similarities or differences do you see between the systems? How does each system interpret the meanings of planets and/or constellations?
+In an essay of about 200-300 words, compare and contrast the Babylonian, Chinese, Hindu, and Hellenistic zodiacs. Include the following in your essay.
 
 - What are the key similarities and differences between these systems in terms of their structure or symbolic meanings?
 - How does each system interpret the significance of planets and/or constellations?
 - The word *zodiac* comes from the Greek root *zo* meaning "animal". Do you find the term "zodiac" appropriate for each system?
-
-You are encouraged to consult outside resources to strengthen your analysis, but be sure to cite or include any references that you use. These do not need to be formal citations; a bullet-point list of resources will suffice.
 
 ## Problem 6: Lost in the Cosmos
 
@@ -92,4 +95,9 @@ In an essay of about 300-400 words, compare and contrast the way these writers d
 
 ## Challenge Problem: The Root of the Issue
 
-For any of the texts in Problem 6, read either the Latin or the Greek and identify 5 words that contain roots that you've learned so far. Give the word, the root, and the context (i.e., the sentence or the line you found the word in). What do you think this word means?
+For any of the texts in Problem 6, read either the Latin or the Greek and identify 5 words that contain roots that you've learned so far. Give the word, the root, and the context (i.e., the sentence or the line you found the word in). What do you think each word means?
+
+**Example:** In the line *Arma virumque cano, Troiae qui primus ab oris*, the word *primus* contains the root "prim", meaning "first". Since the line translates to "I sing of arms and the man, the first from the shores of Troy", *primus* probably means "first" (person).
+
+{: .important}
+> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. You must label each source with the question that it was used for. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.

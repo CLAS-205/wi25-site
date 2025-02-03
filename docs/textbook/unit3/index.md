@@ -25,7 +25,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Eratosthenes
     - Hypatia
 
-<!-- [Lesson 12: Mathematics in Ancient Rome](./lesson12-roman-math/)
+[Lesson 12: Mathematics in Ancient Rome](./lesson12-roman-math/)
 -
 
 - Roman arithmetic
@@ -49,7 +49,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Hipparchus
     - Ptolemy
 
-[Lesson 14: Modern Astronomy](./lesson13-astronomy/)
+<!-- [Lesson 14: Modern Astronomy](./lesson13-astronomy/)
 -
 
 - Scientific Revolution
