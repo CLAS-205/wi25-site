@@ -452,3 +452,52 @@ All vocabulary from each unit and lesson can be found here.
 | orb(it)       | Latin                 | circular                  | orbital           |
 | grav(i)       | Latin                 | heavy                     | gravitas          |
 | cresc(e)      | Latin                 | to grow                   | crescendo         |
+
+### Lesson 14
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| character     | Greek                 | stamp, feature            | characteristic    |
+| phan/phas     | Greek                 | to show, to appear        | phantom           |
+| cra(t/s)      | Greek                 | to mix                    | crater            |
+| sider(a)      | Latin                 | star                      | consider          |
+| fin(e/i)      | Latin                 | end, ending               | finite            |
+| rota          | Latin                 | wheel                     | rotate            |
+| exper(i)      | Latin                 | to try, to attempt        | experiment        |
+| oper(a)       | Latin                 | work, deed                | operation         |
+| celer         | Latin                 | speed                     | celerity          |
+| labor         | Latin                 | work, labor               | collaborate       |
+| metu/i        | Latin                 | fear                      | meticulous        |
+| sign          | Latin                 | sign, mark, standard      | signal            |
+| h(a)er/h(a)es | Latin                 | to stick                  | adhesive          |
+| sist          | Latin                 | to stand, to be firm      | consist           |
+| tort/torq(u)  | Latin                 | to twist                  | torque            |
+| tex(t)        | Latin                 | to weave, woven           | textile           |
+| fund/found    | Latin                 | to establish, to found    | foundation        |
+| volv/volut    | Latin                 | to turn, to spin          | revolve           |
+| ven(e/t)        | Latin                 | to come                   | intervene         |
+| plor          | Latin                 | to call out, to cry out   | explore           |
+| ques/quis/quer/quir | Latin           | to ask                    | query             |
+| divi(de, se)  | Latin                 | to split, to divide       | division          |
+
+### Lesson 15
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| ba(s)         | Greek                 | to step, to walk          | basis             |
+| hol(i/o)      | Greek                 | whole, entire             | hologram          |
+| trad(it)      | Latin                 | to hand, to hand over     | trade             |
+| narr(a/o)     | Latin                 | to tell a story           | narration         |
+| mod(e/o)      | Latin                 | now, current, at this time | modern           |
+| intell(i/e)   | Latin                 | to understand             | intellect         |
+| col/cult      | Latin                 | to inhabit, to live in    | cultural          |
+| civi(l)       | Latin                 | related to citizens       | civic             |
+| discipl(e/i)  | Latin                 | student, learning         | disciple          |
+| tribut(e/a)   | Latin                 | to gift, to bestow        | tribute           |
+| pan(d/s)      | Latin                 | to spread                 | expand            |
+| rati(o)       | Latin                 | reason, logic             | rational          |
+| loqu(i/a)     | Latin                 | to speak, to converse     | colloquium        |
+| cis(e)        | Latin                 | to cut                    | precise           |
+| tens          | Latin                 | to stretch, be stretched  | tension           |
+| clud/s(e)     | Latin                 | to close, to shut         | exclude           |
+| vern(a)       | Latin                 | domestic, native          | vernacular        |
