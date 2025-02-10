@@ -4,7 +4,7 @@ nav_order: 5
 layout: default
 parent: Unit 3
 grandparent: Textbook
-nav_exclude: true
+# nav_exclude: true
 ---
 
 # Lesson 15: The Classical Tradition
@@ -66,7 +66,7 @@ In recent years, the trend toward the dominance of English has been reinforced b
 The history of science, like many other fields of study, has traditionally been told from a Eurocentric perspective, often excluding or minimizing the contributions of non-European civilizations. This **Eurocentric narrative** has its roots in colonialism, imperialism, and the dominance of European powers over much of the world from the 15th century onward. As European explorers and scholars ventured into other parts of the world, they often regarded non-European cultures as inferior or less advanced, leading to the dismissal or neglect of the rich scientific and intellectual traditions found outside Europe.
 
 {: .note}
-> Part of the perpetuation of a Eurocentric tradition comes at the cost of dissociating ancient place-names with their modern-day locations, particularly in Africa and the Middle East. For example, Babylonian ruins are found in modern-day Iraq; Carthage once stood in what is now modern-day Libya; and Alexandria is in northern Egypt.
+> Part of the perpetuation of a Eurocentric tradition comes at the cost of dissociating ancient place-names with their modern-day locations, particularly in Africa and the Middle East. For example, Babylonian ruins are found in modern-day Iraq; the Persian Empire's modern location is Iran; Carthage once stood in what is now modern-day Libya; and Alexandria is in northern Egypt.
 
 ### Exclusion of Non-European Contributions
 

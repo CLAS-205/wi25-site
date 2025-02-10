@@ -4,7 +4,7 @@ nav_order: 4
 layout: default
 parent: Unit 3
 grandparent: Textbook
-nav_exclude: true
+# nav_exclude: true
 ---
 
 # Lesson 14: Modern Astronomy

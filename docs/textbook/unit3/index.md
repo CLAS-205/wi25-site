@@ -4,7 +4,7 @@ nav_order: 3
 layout: default
 parent: Textbook
 has_toc: false
-nav_exclude: true
+# nav_exclude: true
 ---
 
 ## Unit 3
