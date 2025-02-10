@@ -64,7 +64,7 @@ The following is a list of all diminutives, along with which language they are d
 | -et(te)       | Latin                 |
 
 {: .note}
-> **Why are all these diminutives spelled differently if they mean the same thing?**\n
+> **Why are all these diminutives spelled differently if they mean the same thing?**  
 Unfortunately, the inventors of Ancient Greek did not have the speakers of Modern English in mind when these diminutives were originally in use. Since both Greek and Latin are inflected languages, the formation of diminutives changes depending on the type of noun or adjective that the diminutive derives from. Anglicization is also at fault for why some diminutives look like other noun-forming endings. 
 
 ## Chemistry Crash Course

@@ -49,7 +49,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Hipparchus
     - Ptolemy
 
-[Lesson 14: Modern Astronomy](./lesson13-astronomy/)
+<!-- [Lesson 14: Modern Astronomy](./lesson13-astronomy/)
 -
 
 - Scientific Revolution
@@ -75,7 +75,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
 - Greek and Latin as scientific languages
 - Cultural shifts away from Greek and Latin
 - Eurocentrism
-- Ethnosciences
+- Ethnosciences -->
 
 [Project 3: Exploring the Universe](./project3-universe/)
 
