@@ -5,6 +5,7 @@ layout: default
 parent: Unit 4
 grandparent: Textbook
 nav_exclude: true
+search_exclude: true
 ---
 
 # Project 4: Medical School 🩺

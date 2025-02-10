@@ -5,6 +5,7 @@ layout: default
 parent: Textbook
 has_toc: false
 nav_exclude: true
+search_exclude: true
 ---
 
 ## Unit 4
