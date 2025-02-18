@@ -4,8 +4,8 @@ nav_order: 4
 layout: default
 parent: Textbook
 has_toc: false
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 ## Unit 4
@@ -30,7 +30,7 @@ In Unit 4, you'll learn how Greek and Latin became the language of medicine and 
     - Dioscorides
     - Galen
 
-[Lesson 18: The Latin Language](./lesson18-latin/)
+<!-- [Lesson 18: The Latin Language](./lesson18-latin/)
 -
 
 - Nouns and adjectives in Latin
@@ -53,4 +53,4 @@ In Unit 4, you'll learn how Greek and Latin became the language of medicine and 
 
 [Project 4: Medical School](./project4-medschool/)
 
-- Applying knowledge of Latin and Greek roots to medical terminology.
+- Applying knowledge of Latin and Greek roots to medical terminology. -->
