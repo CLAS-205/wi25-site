@@ -556,3 +556,29 @@ All vocabulary from each unit and lesson can be found here.
 | vir(i)        | Latin                 | male, masculine           | virtuous          |
 | dexter/dextr  | Latin                 | right (as in direction)   | dextrous          |
 | sinister/sinistr | Latin              | left (as in direction)    | sinister          |
+
+### Lesson 18
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| chord(a)      | Greek                 | string, spine, backbone   | Chordata          |
+| (o)dyn        | Greek                 | pain                      | myodynia          |
+| dactyl(o)     | Greek                 | finger, toe               | syndactyly        |
+| ur(i/e)       | Greek                 | urine                     | urinary           |
+| gnath         | Greek                 | jaw                       | gnathoplasty      |
+| hyal          | Greek                 | glass, glassy             | hyalin            |
+| caust         | Greek                 | to burn, burning          | caustic           |
+| parie(t)      | Latin                 | wall                      | parietal          |
+| faci(o/a)     | Latin                 | face                      | facial            |
+| camer(a)      | Latin                 | room, chamber             | camera            |
+| ventr(a)      | Latin                 | belly, underside          | ventral           |
+| aur(i)        | Latin                 | ear                       | aural             |
+| digit         | Latin                 | finger, toe               | digital           |
+| reticul(a)    | Latin                 | net, network              | reticulated       |
+| fib(e)r       | Latin                 | fiber, string             | fiber             |
+| vitr          | Latin                 | glass, glassy             | vitreous          |
+| lev(i)        | Latin                 | light (as in weight)      | levitate          |
+| fasci(s)      | Latin                 | bundle (usu. of tissues)  | fascia            |
+| ard(u/e)      | Latin                 | to burn, burning          | arduous           |
+| mors/mort     | Latin                 | to die, death             | mortal            |
+| viv(a/o)      | Latin                 | to live, living           | vivacious         |

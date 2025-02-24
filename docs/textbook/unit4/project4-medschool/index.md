@@ -22,10 +22,15 @@ search_exclude: true
 
 In this project, you will put your word breakdown and interpretation skills against the human body and its various maladies. You will be asked to consider the meanings of the names of body parts, diseases, and drugs, and how each of these names relate to their function and purpose. When thinking about the meanings of words, it's also important to communicate these interpretations for audiences outside the field.
 
+{: .note}
+> To clarify when only the textbook is necessary to solve a problem and when outside resources may be necessary, look for the following symbols:  
+> - 📚 for questions where only the textbook is needed
+> - 🔎 for questions where you will need outside resources
+
 1. TOC
 {:toc}
 
-## Problem 1: The Latin Corpus
+## 📚 Problem 1: The Latin Corpus
 
 Translate each of the following terms from Latin to English, and tell what part of the body is being referred to.
 
@@ -35,7 +40,7 @@ Translate each of the following terms from Latin to English, and tell what part 
 4. articulatio genus
 5. os coxae
 
-## Problem 2: Diagnostic Imagining
+## 🔎 Problem 2: Diagnostic Imagining
 
 Give the meanings of each of the roots (including endings) in the following disease names. Then, look up and give some of the disease's symptoms. Given these symptoms, is the name of the disease appropriate or potentially misleading?
 
@@ -45,7 +50,7 @@ Give the meanings of each of the roots (including endings) in the following dise
 4. xerosis
 5. gonycampsis
 
-## Problem 3: It's Just Hormones
+## 🔎 Problem 3: It's Just Hormones
 
 Give the meanings of each of the roots in the following hormones. Then, look up and give the hormone's purpose. How does its name relate to its function in the body?
 
@@ -55,7 +60,7 @@ Give the meanings of each of the roots in the following hormones. Then, look up 
 4. osteocalcin
 5. vasopressin
 
-## Problem 4: The Deal with Drugs
+## 🔎 Problem 4: The Deal with Drugs
 
 Give the meanings of each of the roots in the following drug classes. Look up and give the use(s) of each, and give a specific disease or condition that it is used for. Based on the meaning of its name, how do you think each type of drug works in the body?
 
@@ -65,7 +70,7 @@ Give the meanings of each of the roots in the following drug classes. Look up an
 4. sympathomimetics
 5. analgesics
 
-## Problem 5: What's Up, Doc?
+## 📚 Problem 5: What's Up, Doc?
 
 Congratulations! After reviewing your hard work in CLAS 205, the Americal Medical Association was really impressed by your knowledge of Greek and Latin roots. They've discovered four new diseases with long, complicated names that no one outside the AMA understands (except you, of course). The AMA needs your help to inform the public about these new diseases!
 
@@ -81,7 +86,7 @@ Once you've written the paragraph for each of these diseases, write a reflection
 {: .note}
 > These are all fictional diseases, but the description of symptoms should relate back to their names.
 
-## Challenge Problem: Under Oath
+## 🔎 Challenge Problem: Under Oath
 
 Create your own medical oath! Your oath should include guidelines and tenets for how a doctor should behave professionally, how they would treat their patients, and how they will practice medicine. The oath does not have to be exhaustive, but you should include at least 5 tenets. You can use any of the following historical and modern oaths as inspiration.
 
@@ -97,3 +102,6 @@ Then, in a reflection of about 100 words, explain your process behind creating y
 <!-- - What do these oaths have in common? Do these align with "universal" ethical values in medical practice?
 - How do these oaths differ? Consider the historical, cultural, and religious contexts surrounding each oath. What might these differences tell you about the identity of a doctor in each culture?
 - Do the tenets of each oath align with how you think doctors should act professionally? Why or why not? -->
+
+{: .important}
+> Make sure to include all resources you consulted for this project at the end of your submission, including any logs for approved AI usage. You must label each source with the question that it was used for. For more details, please refer to the Academic Integrity policy in the course syllabus. These do not need to be formal citations, but you should list what sources you used for each question.
