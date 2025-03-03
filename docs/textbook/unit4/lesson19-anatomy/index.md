@@ -23,7 +23,7 @@ search_exclude: true
 
 It would be all too easy to say that Greek and Latin form the backbone (ha!) of anatomical terminology. While both languages have their usages in medical vocabulary, Latin tends to appear in its original form more often than Greek in anatomical terms. This is because Latin was the language of instruction in medical schools and universities across Europe for centuries, especially during the Renaissance and following the Scientific Revolution. As a result, many of the anatomical terms were directly borrowed from Latin and have retained their original forms (e.g., *cranium*, *femur*). Greek tends to appear more frequently in the names of processes, structures, or conditions (e.g., *arthritis*, *gastrointestinal*).
 
-This system of naming using Greek and Latin roots is not limited to humans; it extends to the study of animals as well. The same conventions apply when describing animal anatomy, as the use of Latin and Greek allows for a consistent framework that can be used to describe similarities and differences across species. (Most vertebrates, for example, have *vertebrae*, or a backbone.) However, for simplicity and practicality, anatomical terminology in this lesson will focus primarily on the human body.
+This system of naming using Greek and Latin roots is not limited to humans; it extends to the study of animals as well. In other words, the same conventions apply when describing animal anatomy. The use of Latin and Greek allows for a consistent framework that can be used to describe similarities and differences across species. (Most vertebrates, for example, have *vertebrae*, or a backbone.) However, for simplicity and practicality, anatomical terminology in this lesson will focus on the human body.
 
 ## Additional Latin Terminology
 
@@ -46,7 +46,52 @@ Latin, similarly, has some formulas that we can use to express the comparative a
 {: .note}
 > Comparative adjectives in Latin are always third-declension, and superlatives are first/second-declension. Using *brevis* as an example, you would say *brevis, brevior, brevissimus* for a masculine subject, *brevis, brevior, brevissima* for a feminine subject, and *brevis, brevius, brevissimum* for a neuter subject.
 
-The following comparative adjectives appear frequently in anatomy:
+Here's an example chart for *brevior/brevius*, the comparative form of *brevis*. Note that all of these forms have the same translation: "shorter".
+
+**Singular**
+
+| Case              | Masculine/Feminine        | Neuter          | 
+| :---              | :---                      | :---            |    
+| Nominative        | brevior                   | brevius         |
+| Genitive          | brevioris                 | brevioris       |
+| Dative            | breviori                  | breviori        |
+| Accusative        | breviorem                 | brevius         |
+| Ablative          | breviore                  | breviore        |
+
+**Plural**
+
+| Case              | Masculine/Feminine        | Neuter          | 
+| :---              | :---                      | :---            |    
+| Nominative        | breviores                 | brevia          |
+| Genitive          | breviorum                 | breviorum       |
+| Dative            | brevioribus               | brevioribus     |
+| Accusative        | breviores                 | brevia          |
+| Ablative          | brevioribus               | brevioribus     |
+
+And here is a chart for *brevissimus*, the superlative form. Note that each of these words has the same translation: "shortest".
+
+**Singular**
+
+| Case              | Masculine         | Feminine          | Neuter            |
+| :---              | :---              | :---              | :---              |
+| Nominative        | brevissimus       | brevissima        | brevissimum       |
+| Genitive          | brevissimi        | brevissimae       | brevissimi        |
+| Dative            | brevissimo        | brevissimae       | brevissimo        |
+| Accusative        | brevissimum       | brevissimam       | brevissimum       |
+| Ablative          | brevissimo        | brevissima        | brevissimo        |
+
+**Plural**
+
+| Case              | Masculine         | Feminine          | Neuter            |
+| :---              | :---              | :---              | :---              |
+| Nominative        | brevissimi        | brevissimae       | brevissima        |
+| Genitive          | brevissimorum     | brevissimarum     | brevissimorum     |
+| Dative            | brevissimis       | brevissimis       | brevissimis       |
+| Accusative        | brevissimos       | brevissimas       | brevissima        |
+| Ablative          | brevissimis       | brevissimis       | brevissimis       |
+
+
+The following comparative adjectives appear frequently in anatomy and use the same endings as the chart for *brevior*:
 
 | Latin                 | English               |
 | :---                  | :---                  |
@@ -56,6 +101,7 @@ The following comparative adjectives appear frequently in anatomy:
 | posterior             | in back, behind       |
 | interior              | inside, within        |
 | exterior              | outside               |
+| prior                 | before, ahead of      |
 
 The two exceptions to the comparative and superlative formulas that we'll see in this class are *maximus* and *minimus*, meaning "largest" and "smallest", respectively. To say "larger" and "smaller", we would say *major* and *minor*, respectively. (One way to remember these is that your *major* is your larger concentration, while your *minor* is your smaller concentration!)
 
@@ -63,12 +109,12 @@ The two exceptions to the comparative and superlative formulas that we'll see in
 
 As mentioned in Lesson 18, while there are (at least) ten forms of each Latin noun, you won't see many of them in practice. Latin anatomical names follow some fairly regular patterns, most of which involve only nominatives and genitives, often in the singular. Here are some common formulas:
 
-| Formula               | How to Translate                      |
-| :---                  | :---                                  |
-| nom (a.)              | <nom (a.)>                            |
-| nom (n.)              | <nom (n.)>                            |
-| nom (n.) - gen (n.)   | <nom (n.)> of the <gen 9n.>           |
-| nom (n.) - nom (a.)   | <nom (a.)> <nom (n.)>                 |
+| Formula                        | How to Translate                        |
+| :---                           | :---                                    |
+| nom (a.)                       | <nom (a.)>                              |
+| nom (n.)                       | <nom (n.)>                              |
+| nom (n.) - gen (n.)            | <nom (n.)> of the <gen 9n.>             |
+| nom (n.) - nom (a.)            | <nom (a.)> <nom (n.)>                   |
 | nom (n.) - gen (n.) - gen (a.) | <nom (n.)> of the <gen (a.)> <gen (n.)> |
 | nom (n.) - nom (a.) - gen (a.) | <nom (a.)> <nom (n.)> of the <gen (n.)> |
 | nom (n.) - nom (a.) - nom (a.) | <nom (a.)> <nom (a.)> <nom (n.)>        |
@@ -114,13 +160,16 @@ Latin names for bones are usually two words. Typically, they will follow a nomin
 | os occipitalis    | occipital bone (back of skull)    | nom (n.) - nom (a.)       |
 | os costae         | rib bone (lit., bone of the rib)  | nom (n.) - gen (n.)       |
 
+{: .note}
+> In graded assignments, you will need to translate Latin adjectives to English, rather than transliterating them. For example, **temporale** should rather be translated as "relating to the temple (of the head)" rather than as "temporal".
+
 ### Muscles
 
 The Latin word for muscle is *musculus* (genitive *musculi*). Similar to bones, the Latin names for most muscles formally begin with the word *musculus*. However, this also drops out in practice. For example, the *musculus biceps* is better known just as the *biceps* (a muscle in your upper arm).
 
 Unlike bones, though, most muscle names do not keep the word *musculus*. As such, you might imagine that the word *musculus* is secretly at the beginning of any muscle name that you see. 
 
-Some muscle names also describe their function and how they move in the body. For example, a *compressor* is a muscle that *presses together* or contracts, while an *extensor* is a muscle that *stretches out* or extends. (Usually, you can figure out the meanings of these Latin compounds because of their resemblance to words in English. Barring that, you can always check individual roots!)
+Some muscle names also describe their function and how they move in the body. The Latin suffix **-or** creates a noun that typically performs an action. For example, a *compressor* is a muscle that *presses together* or contracts, while an *extensor* is a muscle that *stretches out* or extends. (Usually, you can figure out the meanings of these Latin compounds because of their resemblance to words in English. Barring that, you can always check individual roots!)
 
 Latin muscle names often follow a two-word pattern. In nominative-genitive patterns, the first word usually describes the type of muscle (or other distinguishing feature), and the second word usually describes where you would find the muscle. In nominative-nominative patterns, the order is usually reversed. The first word describes where to locate the muscle, while the second word describes a physical characteristic. Note the examples below:
 
@@ -133,6 +182,9 @@ Latin muscle names often follow a two-word pattern. In nominative-genitive patte
 | rectus abdominis      | straight (muscle) of the abdomen | nom (a.) - gen (n.)    |
 | biceps brachii        | two-headed (muscle) of the arm | nom (a.) - gen (n.)      |
 | quadriceps femoris    | four-headed (muscle) of the thigh | nom (a.) - gen (n.)   |
+
+{: .note}
+> As a side note, many of these nominative adjectives are third-declension, so they will look identical to their genitives. Typically, though, the first word in the description of a muscle is in the nominative.
 
 ### Organs
 
@@ -169,7 +221,7 @@ Every organ in the human body has a Latin name, but these are rarely used becaus
 | phleb             | Greek                 | blood vessel              | phlebotomy        |
 | stom(at)          | Greek                 | mouth                     | stoma             |
 | cleid(o)          | Greek                 | collarbone                | hypocleidium      |
-| morb          | Latin                 | disease, sickness         | morbid            |
+| morb              | Latin                 | disease, sickness         | morbid            |
 | cost              | Latin                 | rib                       | os costae         |
 | cox               | Latin                 | hip                       | coxa              |
 | genu              | Latin                 | knee                      | genual            |

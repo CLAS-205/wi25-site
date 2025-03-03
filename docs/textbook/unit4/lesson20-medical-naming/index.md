@@ -4,8 +4,8 @@ nav_order: 5
 layout: default
 parent: Unit 4
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Lesson 20: Naming of Diseases and Treatments
@@ -38,12 +38,12 @@ Finally, the ending **-oid**, often seen in the plural **-oids**, is used for co
 
 While endings reflect the type of condition or disease, roots tend to reflect the cause of the condition or the affected region, such as **bacteremia** (the presence of bacteria in the bloodstream) or **cardiomyopathy** (disease of the heart muscle). This practice of using disease-causing agents or pathological processes as part of the naming system helps not only in identifying the disease but also in understanding its **etiology**, or its origin.
 
-Most diseases are named either after the symptoms they cause or the body parts they affect. For instance, **pneumonia** refers to an infection of the lungs, combining the base **pneumon** with the ending *-ia*. **Cardiovascular diseases** are a class of diseases that affect the **heart** (cardio) and **vessels** (vascular), while diseases of the digestive system such as **colitis** (inflammation of the colon) use the root word "col-" to indicate the colon as the affected body part. In this way, the structure and function of the body system being targeted play a significant role in the disease’s nomenclature.
+Most diseases are named either after the symptoms they cause or the body parts they affect. For instance, **pneumonia** refers to an infection of the lungs, combining the base **pneumon** with the ending *-ia*. **Cardiovascular diseases** are a class of diseases that affect the **heart** (cardio) and blood **vessels** (vascular), while diseases of the digestive system such as **colitis** (inflammation of the colon) use the root word "col-" to indicate the colon as the affected body part. In this way, the structure and function of the body system being targeted play a significant role in the disease's nomenclature.
 
 {: .note}
 > A number of bacterial or viral diseases are named for the physical characteristics of the vector. A well-known example from recent years is the **coronavirus**, so called because of the virus cells' resemblance to a crown (**corona** in Latin).
 
-Some diseases are named after the person who discovered them, such as **Alzheimer’s disease**, named after Dr. Alois Alzheimer, who first identified the condition in 1906. Similarly, **Lou Gehrig’s disease** (the formal name for which is Amyotrophic Lateral Sclerosis or ALS) is named after the famous baseball player who was diagnosed with it. This naming practice serves as a tribute to the contributions of these individuals, whose observations or experiences helped increase awareness and understanding of these medical conditions.
+Some diseases are named after the person who discovered them, such as **Alzheimer's disease**, named after Dr. Alois Alzheimer, who first identified the condition in 1906. Similarly, **Lou Gehrig's disease** (the formal name for which is Amyotrophic Lateral Sclerosis or ALS) is named after the famous baseball player who was diagnosed with it. This naming practice serves as a tribute to the contributions of these individuals, whose observations or experiences helped increase awareness and understanding of these medical conditions.
 
 In some cases, diseases are named for the places where they were first identified or studied. **Ebola virus disease**, for instance, is named after the Ebola River in the Democratic Republic of Congo, where the disease was first recognized. This type of naming can be useful for tracking the origin and spread of infectious diseases, and can also be a useful historical reference for healthcare researchers and professionals.
 
@@ -51,7 +51,7 @@ In some cases, diseases are named for the places where they were first identifie
 
 ### Drug Classes
 
-Drugs are categorized into various classes based on their chemical composition, mechanism of action, and therapeutic effects. For example, **antibiotics** are a class of drugs used to treat infections caused by bacteria. Within antibiotics, there are further subdivisions such as **penicillins**, **macrolides**, and **tetracyclines**, all of which are named for their chemical compositions. **Penicillin** derives its name from the Latin word for "brush" or "broom", a nod to its broom-like chains in its chemical structure. You might recognize the root **macro** in **macrolide**, a reference to its ring-like structure containing at least 15 or 16 atoms. **Tetra** and **cycl** together mean "four circles", which reference the four ring-like structures in the molecules of these compounds.
+Drugs are categorized into various classes based on their chemical composition, mechanism of action, and therapeutic effects. For example, **antibiotics** are a class of drugs used to treat infections caused by bacteria (which are *living* organisms). Within antibiotics, there are further subdivisions such as **penicillins**, **macrolides**, and **tetracyclines**, all of which are named for their chemical compositions. **Penicillin** derives its name from the Latin word for "brush" or "broom", a nod to its broom-like chains in its chemical structure. You might recognize the root **macro** in **macrolide**, a reference to its ring-like structure containing at least 15 or 16 atoms. **Tetra** and **cycl** together mean "four circles", which reference the four ring-like structures in the molecules of these compounds.
 
 Another important drug class is **antipyretics**, which are used to reduce fever. **Pyr** is a root typically meaning "fire", but in the context of the human body, usually means "fever". Generally, drug classes will use Greek and Latin terms like the ones you're familiar with. However, the naming of specific drugs introduces several new roots coined from chemistry and pharmacology.
 
