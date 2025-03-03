@@ -4,8 +4,8 @@ nav_order: 4
 layout: default
 parent: Unit 4
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
+# nav_exclude: true
+# search_exclude: true
 ---
 
 # Lesson 19: Anatomical Naming
