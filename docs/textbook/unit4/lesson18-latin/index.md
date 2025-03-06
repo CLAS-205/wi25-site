@@ -199,6 +199,7 @@ Nouns in this declension can be masculine, feminine, or neuter. Masculine and fe
 | Ablative          | -e            | orbe        | circle (prepositional object) |
 
 **Neuter**
+
 | Case              | Ending        | Example       | Translation               |
 | :---              | :---          | :---          | :---                      |
 | Nominative        | varies        | caput         | head (subject)              |
