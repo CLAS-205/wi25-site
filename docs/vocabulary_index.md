@@ -582,3 +582,69 @@ All vocabulary from each unit and lesson can be found here.
 | ard(u/e)      | Latin                 | to burn, burning          | arduous           |
 | mors/mort     | Latin                 | to die, death             | mortal            |
 | viv(a/o)      | Latin                 | to live, living           | vivacious         |
+
+### Lesson 19
+
+| Root              | Language of origin    | Meaning                   | Example           |
+| :---:             | :---:                 | :---                      | :---              |
+| gony              | Greek                 | knee                      | gonyplasty        |
+| cheil             | Greek                 | lip                       | cheiloplasty      |
+| glott/gloss       | Greek                 | tongue                    | glossary          |
+| onych             | Greek                 | nail (of a finger or toe) | onychia           |
+| my(o)             | Greek                 | muscle                    | myalgia           |
+| myel              | Greek                 | marrow, spinal cord       | myelitis          |
+| soma(to)          | Greek                 | body                      | somatic           |
+| chol(e)           | Greek                 | bile                      | cholera           |
+| phleb             | Greek                 | blood vessel              | phlebotomy        |
+| stom(at)          | Greek                 | mouth                     | stoma             |
+| cleid(o)          | Greek                 | collarbone                | hypocleidium      |
+| morb              | Latin                 | disease, sickness         | morbid            |
+| cost              | Latin                 | rib                       | os costae         |
+| cox               | Latin                 | hip                       | coxa              |
+| genu              | Latin                 | knee                      | genual            |
+| crist             | Latin                 | crest                     | crista            |
+| frontal(e)        | Latin                 | in front                  | frontal           |
+| tempor(a)         | Latin                 | temple (of the head)      | temporal          |
+| ment(um)          | Latin                 | chin                      | mentum            |
+| lingu(a)          | Latin                 | tongue                    | bilingual         |
+| ven(a)            | Latin                 | vein, blood vessel        | venule            |
+| vas               | Latin                 | blood vessel              | vascular          |
+| ans               | Latin                 | handle, loop              | ansiform          |
+| cortex/cortic(o)  | Latin                 | bark, outer layer         | cortical          |
+| cervix/cervic(o)  | Latin                 | neck                      | cervical          |
+| bucc(a)           | Latin                 | mouth                     | buccal            |
+| crani(a)          | Latin                 | skull                     | cranium           |
+| sen(i)            | Latin                 | old, aged                 | senior            |
+
+### Lesson 20
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| spondyl       | Greek                 | vertebrae, spine          | spondylitis       |
+| scler(o)      | Greek                 | hard, to harden           | sclerosis         |
+| xer           | Greek                 | dry                       | Xerox             |
+| spas(m)       | Greek                 | to jerk, to move violently | spasm            |
+| camp(t)       | Greek                 | to twist, to turn         | camptosaur        |
+| poi(e)        | Greek                 | to make                   | onomatopoeia      |
+| cyst          | Greek                 | sac                       | cystic            |
+| thromb        | Greek                 | to clot (as of blood)     | thrombosis        |
+| cirrh         | Greek                 | tawny                     | cirrhosis         |
+| rrho/rrhea    | Greek                 | flow, discharge, current  | diarrhea          |
+| scoli(o)      | Greek                 | twisted                   | scoliosis         |
+| sept(i)       | Greek                 | putrid                    | septic            |
+| sapr(o)       | Greek                 | putrid, rotting           | saprogenic        |
+| mim(e)        | Greek                 | to copy, to imitate       | mimic             |
+| necr(o)       | Greek                 | death, dying              | necromancy        |
+| pleur         | Greek                 | side, rib                 | pleurodynia       |
+| sthen(o)      | Greek                 | strength                  | calisthenics      |
+| tuber         | Latin                 | lump, swelling            | tuberous          |
+| cav           | Latin                 | hollow                    | cavity            |
+| press         | Latin                 | to press                  | pressure          |
+| varix/varic   | Latin                 | swollen, twisted          | varicose          |
+| articul       | Latin                 | joint, utterance          | articulation      |
+| rupt          | Latin                 | to break, to burst        | erupt             |
+| coll          | Latin                 | neck                      | collar            |
+| sulc          | Latin                 | furrow, groove            | sulcus            |
+| cer           | Latin                 | wax, waxy                 | triceratops       |
+| lat           | Latin                 | wide                      | latitude          |
+| later         | Latin                 | side, sideways            | lateral           |
