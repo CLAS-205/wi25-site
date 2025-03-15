@@ -181,46 +181,47 @@ All vocabulary from each unit and lesson can be found here.
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
-| leuk/c        | Greek              | white         | leukemia     |
-| erythr(o)     | Greek          | red           | erythrophobia |
-| melan(o)      | Greek     | black         | melanin       |
-| xanth(o)      | Greek            | yellow, gold  | xanthosis     |
-| chrys(o)      | Greek            | gold          | chrysalis     |
-| phoenic(o)    | Greek        | crimson, bright red         | phoenix     |
-| rhod(o)       | Greek              | pink, rosy    | rhododendron      |
-| glauc/k       | Greek            | grey, silver  | glaucoma      |
-| chlor(o)      | Greek            | green         | chlorophyll       |
-| actin     | Greek                     | ray (like the sun)           | actinost  |
-| onco      | Greek                     | mass, bulk      | oncologist  |
-| sem(a/o)  | Greek                     | flag, banner      | semaphore     |
-| lepid(o)  | Greek                     | scale (as of a fish) | leprosy    |
-| cole(o)   | Greek                     | sheath            | coleoptile    |
-| theca     | Greek                     | case              | apothecary    |
-| alb           | Latin                | white         | albino        |
-| rub/ruf       | Latin    | red           | rubella       |
-| nigr          | Latin               | black         | nigrescent    |
-| cyan(o)       | Latin              | blue          | cyanide       |
-| flav(o)       | Latin              | yellow        | flavin        |
-| candid(o)     | Latin          | bright, white | candid        |
-| virid         | Latin                  | green         | viridian      |
-| scut(a)   | Latin                     | shield            | scute         |
-| squam(a)  | Latin                     | scale (as of a fish) | squamous   |
-| bulb      | Latin                     | onion, onion-like | bulbous       |
-| set(a)    | Latin                     | bristle           | setaceous     |
-| flor(a)   | Latin                     | flower            | floral        |
-| stri(a)   | Latin                     | groove, stripe    | striated      |
-| platy     | Greek                     | flat              | platypus      |
-| brachy    | Greek                     | short             | brachyodont   |
-| acr(o)    | Greek                     | high, tall        | acropolis     |
-| tachy     | Greek                     | fast              | tachyon       |
-| brady     | Greek                     | slow              | bradylogia    |
-| ambly     | Greek                     | dull              | amblyacusia   |
-| carchar   | Greek                     | sharp, jagged     | carcharias    |
-| long      | Latin                     | long              | elongate      |
-| brev(i)   | Latin                     | short             | brevity       |
-| parv(o)   | Latin                     | small             | parvovirus    |
-| magn(i/o) | Latin                     | large             | magnitude     |
-| alt(o)    | Latin                     | tall, deep        | altitude      |
+| leuk/c        | Greek                 | white                     | leukemia          |
+| erythr(o)     | Greek                 | red                       | erythrophobia     |
+| melan(o)      | Greek                 | black                     | melanin           |
+| xanth(o)      | Greek                 | yellow, gold              | xanthosis         |
+| chrys(o)      | Greek                 | gold                      | chrysalis         |
+| phoenic(o)    | Greek                 | crimson, bright red       | phoenix           |
+| rhod(o)       | Greek                 | pink, rosy                | rhododendron      |
+| glauc/k       | Greek                 | grey, silver              | glaucoma          |
+| chlor(o)      | Greek                 | green                     | chlorophyll       |
+| actin         | Greek                 | ray (like the sun)        | actinost          |
+| onco          | Greek                 | mass, bulk                | oncologist        |
+| sem(a/o)      | Greek                 | flag, banner              | semaphore         |
+| lepid(o)      | Greek                 | scale (as of a fish)      | leprosy           |
+| cole(o)       | Greek                 | sheath                    | coleoptile        |
+| theca         | Greek                 | case                      | apothecary        |
+| platy         | Greek                 | flat                      | platypus          |
+| brachy        | Greek                 | short                     | brachyodont       |
+| acr(o)        | Greek                 | high, tall                | acropolis         |
+| tachy         | Greek                 | fast                      | tachyon           |
+| brady         | Greek                 | slow                      | bradylogia        |
+| ambly         | Greek                 | dull                      | amblyacusia       |
+| carchar       | Greek                 | sharp, jagged             | carcharias        |
+| alb           | Latin                 | white                     | albino            |
+| rub/ruf       | Latin                 | red                       | rubella           |
+| nigr          | Latin                 | black                     | nigrescent        |
+| cyan(o)       | Latin                 | blue                      | cyanide           |
+| flav(o)       | Latin                 | yellow                    | flavin            |
+| candid(o)     | Latin                 | bright, white             | candid            |
+| virid         | Latin                 | green                     | viridian          |
+| purpur(eo)    | Latin                 | purple                    | purpurescent      |
+| scut(a)       | Latin                 | shield                    | scute             |
+| squam(a)      | Latin                 | scale (as of a fish)      | squamous          |
+| bulb          | Latin                 | onion, onion-like         | bulbous           |
+| set(a)        | Latin                 | bristle                   | setaceous         |
+| flor(a)       | Latin                 | flower                    | floral            |
+| stri(a)       | Latin                 | groove, stripe            | striated          |
+| long          | Latin                 | long                      | elongate          |
+| brev(i)       | Latin                 | short                     | brevity           |
+| parv(o)       | Latin                 | small                     | parvovirus        |
+| magn(i/o)     | Latin                 | large                     | magnitude         |
+| alt(o)        | Latin                 | tall, deep                | altitude          |
 
 ## Unit 2
 
@@ -237,7 +238,7 @@ All vocabulary from each unit and lesson can be found here.
 | ly(s)         | Greek                 | to dissolve, to loosen    | dialysis          |
 | zym(e)        | Greek                 | fermented, leaven         | enzyme            |
 | petr/peter    | Greek                 | rock                      | saltpeter         |
-| rhe(u)/rrh(ea)    | Greek                 | to flow                   | rheumatism    |
+| rhe(u)/rrh(ea) | Greek                | to flow                   | rheumatism        |
 | rhythm        | Greek                 | regularity, flow          | rhythmic          |
 | mol(e)        | Latin                 | weight, heaviness         | molar             |
 | dorm/dormit   | Latin                 | to sleep                  | dormant           |
@@ -475,7 +476,7 @@ All vocabulary from each unit and lesson can be found here.
 | tex(t)        | Latin                 | to weave, woven           | textile           |
 | fund/found    | Latin                 | to establish, to found    | foundation        |
 | volv/volut    | Latin                 | to turn, to spin          | revolve           |
-| ven(e/t)        | Latin                 | to come                   | intervene         |
+| ven(e/t)      | Latin                 | to come                   | intervene         |
 | plor          | Latin                 | to call out, to cry out   | explore           |
 | ques/quis/quer/quir | Latin           | to ask                    | query             |
 | divi(de, se)  | Latin                 | to split, to divide       | division          |
