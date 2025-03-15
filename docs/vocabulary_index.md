@@ -72,7 +72,7 @@ All vocabulary from each unit and lesson can be found here.
 | tele          | Greek                 | far, from afar            | telepathy         |
 | phon          | Greek                 | sound, voice, speech      | phonics           |
 | meta          | Greek                 | with, beyond, after       | metastasize       |
-| syn           | Greek                 | together, with            | synthesize        |
+| syn/sym       | Greek                 | together, with            | synthesize        |
 | a/an          | Greek                 | not, without              | asexual           |
 | anti          | Greek                 | against, opposed to       | antitoxin         |
 | somn(i)       | Latin                 | sleep                     | insomnia          |
@@ -126,7 +126,7 @@ All vocabulary from each unit and lesson can be found here.
 | ec(s)         | Greek                 | out of                    | ecstasy           |
 | en            | Greek                 | within, into              | endemic           |
 | spec(i)       | Latin                 | type, species             | species           |
-| gen(e)           | Latin                 | family, clan, type        | genetics          |
+| gen(e)        | Latin                 | family, clan, type        | genetics          |
 | bacter        | Latin                 | rod                       | bacteria          |
 | verb          | Latin                 | word                      | verbal            |
 | cut(a)        | Latin                 | skin                      | cuticle           |

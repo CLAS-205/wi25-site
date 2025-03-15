@@ -206,7 +206,7 @@ You are not responsible for memorizing this consonant chart to say which familie
 | tele          | Greek                 | far, from afar            | telepathy         |
 | phon          | Greek                 | sound, voice, speech      | phonics           |
 | meta          | Greek                 | with, beyond, after       | metastasize       |
-| syn           | Greek                 | together, with            | synthesize        |
+| syn/sym       | Greek                 | together, with            | synthesize        |
 | a/an          | Greek                 | not, without              | asexual           |
 | anti          | Greek                 | against, opposed to       | antitoxin         |
 | somn(i)       | Latin                 | sleep                     | insomnia          |
