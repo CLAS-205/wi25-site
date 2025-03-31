@@ -4,6 +4,9 @@ layout: home
 nav_order: 1
 ---
 
+{: .important}
+> **This is an older version of the site that is not up-to-date with the current quarter.** If you are a current student of CLAS 205, be sure to check out the most recent version of the site [here](https://clas-205.github.io/sp25-site).
+
 ## **Welcome!**
 
 This site contains the materials for the University of Washington's CLAS 205: Bioscientific Vocabulary Building from Latin and Greek. This course is designed to help students master the scientific vocabulary of their particular field by a study of the Latin and Greek roots that are used to create the majority of scientific terms. In addition, students will explore science and medicine in the Ancient Mediterranean, as well as how the Greco-Roman scientific tradition has contributed to modern methods of scientific inquiry and theory.
